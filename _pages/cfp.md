@@ -23,8 +23,7 @@ All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
 
 ## **Aim and Scope**
 
-ims to bring together researchers, industry professionals, and practitioners to explore the application of causal inference within machine learning models. As causal machine learning techniques gain traction across industries, practical challenges related to trustworthiness, robustness, and fairness remain at the forefront. This workshop will provide a forum to discuss methodologies for evaluating causal models in real-world scenarios and explore innovative applications that integrate causal inference with generative AI (GenAI) and large language models (LLMs). Topics of interest include using GenAI and LLMs to facilitate causal inference tasks and leveraging causal inference techniques for evaluating and improving GenAI/LLM models.
-
+This workshop aims to bring together researchers, industry professionals, and practitioners to explore the application of causal inference with machine learning. As causal machine learning techniques gain traction across industries, practical challenges related to trustworthiness, robustness, and fairness remain at the forefront. This workshop will provide a forum to discuss methodologies for applying and evaluating causal models in real-world scenarios and explore innovative applications that integrate causal inference with machine learning algorithms.
 
 We welcome papers on a variety of topics, including but not limited to the following:
 * Industry use cases where causal inference and machine learning are used in practice
@@ -34,7 +33,6 @@ We welcome papers on a variety of topics, including but not limited to the follo
 * Methodologies for evaluating causal machine learning models in practice
 * Analysis of the trustworthiness, robustness, and fairness of causal machine learning methods
 * Methodologies and applications that connect causal inference with GenAI or LLM; example applications include using GenAI or LLM to assist causal inference or using causal approaches for GenAI or LLM evaluation.
-
 
 We encourage submissions from researchers and practitioners working in industry, government, and academia. We welcome
 papers that present new research results, works in progress, or case studies that showcase the application of causal
