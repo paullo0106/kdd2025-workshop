@@ -21,6 +21,8 @@ All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
 
 * CMT submission portal: [https://cmt3.research.microsoft.com/CMLKDD2025/](https://cmt3.research.microsoft.com/CMLKDD2025/)
 
+*The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.*
+
 ## **Aim and Scope**
 
 This workshop aims to bring together researchers, industry professionals, and practitioners to explore the application of causal inference with machine learning. As causal machine learning techniques gain traction across industries, practical challenges related to trustworthiness, robustness, and fairness remain at the forefront. This workshop will provide a forum to discuss methodologies for applying and evaluating causal models in real-world scenarios and explore innovative applications that integrate causal inference with machine learning algorithms.
