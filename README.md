@@ -33,7 +33,11 @@ submission guidelines.
 
 ## **Program**
 
+Coming Soon!
+
 ## **Invited Speakers**
+
+* [Maria Dimakopoulou, Director of Engineering, Uber](/_pages/speakers.md#maria-dimakopoulou-director-of-engineering-uber)
 
 
 ## **Organizers**
