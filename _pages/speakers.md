@@ -9,7 +9,7 @@ search_exclude: true
 
 ## Maria Dimakopoulou, Director of Engineering, Uber
 
-![](/images/maria.jpg "Maria Dimakopoulou")
+![]({{site.baseurl}}/images/maria.jpg "Maria Dimakopoulou")
 
 
 ### Bio
