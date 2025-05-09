@@ -15,7 +15,7 @@ image: images/logo.png
 ## **Schedule**
 
 * Toronto, ON, Canada
-* Date: Wednesday, August 6
+* Date: TBD - Sunday, August 3rd or Monday, August 4th
 * Time: TBD
 
 ## **Abstract**
@@ -37,7 +37,7 @@ Coming Soon!
 
 ## **Invited Speakers**
 
-* [Maria Dimakopoulou, Director of Engineering, Uber](/_pages/speakers.md#maria-dimakopoulou-director-of-engineering-uber)
+* [Pedro H.C. Sant’Anna, Associate Professor of Economics, Emory](/_pages/speakers.md#pedro-hc-santanna-associate-professor-of-economics-emory)
 
 
 ## **Organizers**

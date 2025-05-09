@@ -7,13 +7,18 @@ search_exclude: true
 
 # **Invited Speakers**
 
-## Maria Dimakopoulou, Director of Engineering, Uber
+## Pedro H.C. Sant’Anna, Associate Professor of Economics, Emory
 
-![]({{site.baseurl}}/images/maria.jpg "Maria Dimakopoulou")
-
+![]({{site.baseurl}}/images/pedro.jpeg "Pedro H.C. Sant’Anna")
 
 ### Bio
-Maria Dimakopoulou is a leader at the intersection of Machine Learning, Causal Inference and large-scale Engineering Systems in the domains of Recommendation Systems and, more recently, Marketplaces. She is currently Director of Engineering at Uber, where she leads a 50-person organization developing Pricing & Incentive strategies for the Mobility Marketplace. Prior to Uber, Maria Dimakopoulou was Director of Engineering at Spotify, overseeing personalized homepage recommendations for over 650 million listeners across music, podcasts and audiobooks. She also served as Strategy Lead for Spotify's content discovery efforts. Before Spotify, she was at Netflix, where she drove Causal ML initiatives and later built and led the cross-functional Adaptive Experimentation working group to advance Netflix's experimentation capabilities. Earlier in her career, she worked at Google Research on large-scale optimization algorithms. Maria Dimakopoulou earned a PhD from Stanford University in Reinforcement Learning and Causal Inference, advised by Benjamin Van Roy and Susan Athey. She is the recipient of numerous awards, including Stanford's Outstanding Academic Achievement Award, Intel's Innovation Award, Google's Anita Borg Memorial Award and Forbes 30 under 30 Greece.
+Pedro H.C. Sant’Anna is a passionate applied econometrician, working in causal inference and semi- and non-parametric methods. Much of his recent work aims to develop, better understand, and further improve Difference-in-Differences (DiD) methods.
+
+He is an Associate Professor of Economics at Emory University and an Amazon Scholar. He also serves as Associate Editor at the Journal of Econometrics and at the Journal of Business and Economic Statistics.
+
+Previously, Pedro Sant’Anna was an Assistant Professor at Vanderbilt University and a Principal Researcher at Microsoft. Pedro earned his PhD in Econometrics from Universidad Carlos III de Madrid, Spain, and his BA in Economics from Ibmec-MG, Brazil.
+
+Pedro has published in top journals in economics and has given guest lectures and seminars on DiD topics at leading universities around the world. He is also a co-author of several open-source packages for DiD methods, giving him first-hand experience with the practicalities of these modern tools. His industry experience also allows him to effectively communicate with a broad audience from many different backgrounds.
 
 ### Title
 
