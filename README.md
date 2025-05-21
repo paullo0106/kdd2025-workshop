@@ -37,14 +37,15 @@ Coming Soon!
 
 ## **Invited Speakers**
 
-* [Pedro H.C. Sant’Anna, Emory University](/_pages/speakers.md#pedro-hc-santanna-emory-university)
-* [Linbo Wang, University of Toronto](/_pages/speakers.md#linbo-wang-university-of-toronto)
+* [Pedro H.C. Sant’Anna, Emory University](/_pages/invited-speakers.md#pedro-hc-santanna-emory-university)
+* [Linbo Wang, University of Toronto](/_pages/invited-speakers.md#linbo-wang-university-of-toronto)
 
 
 ## **Organizers**
 
 * Chu Wang, Amazon
 * Jingshen Wang, UC Berkeley
+* Sourav Sinha, Instacart
 * Sichao Yin, Instacart
 * Yingfei Wang, University of Washington
 * [Zeyu Zheng](mailto:zyzheng@berkeley.edu), UC Berkeley, Amazon - main contact
