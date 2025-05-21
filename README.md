@@ -35,7 +35,7 @@ submission guidelines.
 
 Coming Soon!
 
-## [**Invited Speakers**](/_pages/invited.md)
+## [**Invited Speakers**](https://causal-machine-learning.github.io/kdd2025-workshop/invited/)
 
 * [Pedro H.C. Sant’Anna, Emory University](https://psantanna.com/)
 * [Linbo Wang, University of Toronto](https://sites.google.com/site/linbowangpku/home)
