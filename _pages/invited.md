@@ -1,5 +1,5 @@
 ---
-permalink: /invited-speakers/
+permalink: /invited/
 layout: default
 title: Invited Speakers
 search_exclude: true
