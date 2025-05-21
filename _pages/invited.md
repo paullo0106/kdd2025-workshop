@@ -7,7 +7,7 @@ search_exclude: true
 
 # **Invited Speakers**
 
-## Pedro H.C. Sant’Anna, Emory University
+## [Pedro H.C. Sant’Anna, Emory University](https://psantanna.com/)
 
 ![]({{site.baseurl}}/images/pedro.jpeg "Pedro H.C. Sant’Anna")
 
@@ -24,7 +24,7 @@ Pedro has published in top journals in economics and has given guest lectures an
 
 ### Abstract
 
-## Linbo Wang, University of Toronto
+## [Linbo Wang, University of Toronto](https://sites.google.com/site/linbowangpku/home)
 
 ![]({{site.baseurl}}/images/linbo-wang.png "Linbo Wang")
 
