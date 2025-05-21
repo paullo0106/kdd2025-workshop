@@ -15,7 +15,7 @@ All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
 * June 8th, 2025: Workshop paper submission deadline
 * July 1st, 2025: Paper decision notifications
 * July 14th, 2025: Camera-ready deadline
-* August 6th, 2025: Workshop
+* August 4th, 2025: Workshop
 
 ## **Submission Link**
 
