@@ -37,7 +37,8 @@ Coming Soon!
 
 ## **Invited Speakers**
 
-* [Pedro H.C. Sant’Anna, Associate Professor of Economics, Emory](/_pages/speakers.md#pedro-hc-santanna-associate-professor-of-economics-emory)
+* [Pedro H.C. Sant’Anna, Emory University](/_pages/speakers.md#pedro-hc-santanna-emory-university)
+* [Linbo Wang, University of Toronto](/_pages/speakers.md#linbo-wang-university-of-toronto)
 
 
 ## **Organizers**
