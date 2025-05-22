@@ -15,7 +15,7 @@ image: images/logo.png
 ## **Schedule**
 
 * Toronto, ON, Canada
-* Date: Monday, August 4th
+* Date: Monday, August 4th, 2025
 * Time: 8:00 AM - 12:00 PM
 
 ## **Abstract**
@@ -39,6 +39,7 @@ Coming Soon!
 
 * [Pedro H.C. Sant’Anna, Emory University](https://psantanna.com/)
 * [Linbo Wang, University of Toronto](https://sites.google.com/site/linbowangpku/home)
+* [Wenjing Zheng, Roblox](https://www.linkedin.com/in/wenjing-zheng/)
 
 
 ## **Organizers**

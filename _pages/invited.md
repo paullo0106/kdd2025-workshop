@@ -34,3 +34,10 @@ Linbo Wang is Canada Research Chair in Causal Machine Learning, and an associate
 ### Title
 
 ### Abstract
+
+## [Wenjing Zheng, Roblox](https://www.linkedin.com/in/wenjing-zheng/)
+
+![]({{site.baseurl}}/images/wenjing-zheng.jpg "Wenjing Zheng")
+
+### Bio
+Wenjing Zheng is a Senior Data Science Manager at Roblox, where she leads the Ecosystem and Learning Platforms data science team in building scalable, impact-driven solutions. She holds dual PhDs from UC Berkeley and Université Paris Cité and brings over a decade of experience in causal machine learning. Prior to Roblox, Wenjing led experimentation and ads growth initiatives at Netflix. Her expertise spans causal inference, machine learning, and applied data science. Before entering the industry, she was an academic researcher focused on developing doubly robust semiparametric methods for causal inference.
