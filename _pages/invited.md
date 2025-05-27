@@ -41,3 +41,12 @@ Linbo Wang is Canada Research Chair in Causal Machine Learning, and an associate
 
 ### Bio
 Wenjing Zheng is a Senior Data Science Manager at Roblox, where she leads the Ecosystem and Learning Platforms data science team in building scalable, impact-driven solutions. She holds dual PhDs from UC Berkeley and Université Paris Cité and brings over a decade of experience in causal machine learning. Prior to Roblox, Wenjing led experimentation and ads growth initiatives at Netflix. Her expertise spans causal inference, machine learning, and applied data science. Before entering the industry, she was an academic researcher focused on developing doubly robust semiparametric methods for causal inference.
+
+## [Jeffrey Wong, Airbnb](https://www.linkedin.com/in/jeffctwong/)
+
+![]({{site.baseurl}}/images/jeffrey-wong.jpeg "Jeffrey Wong")
+
+### Bio
+Jeffrey Wong is a Senior Staff Engineer for Airbnb's Experimentation Platform, and previously Principle Data Scientist for Experimentation at Netflix. Having dual roles in engineering and data science, Jeff's research is in dynamic policy making rooted in causal effects, and highly performant software to build them. He applies this to build smart engineering systems for adtech, content promotion and experimentation.
+
+In the community, Jeff is leading an open field in computational casual inference, where he is promoting the intersection of software, numerical methods, and causal inference. He is joining us at CMLKDD2025 to share more about these needs and opportunities.
