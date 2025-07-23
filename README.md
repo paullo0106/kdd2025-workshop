@@ -36,7 +36,7 @@ submission guidelines.
 | **Title** | **Speaker** | **Time (Duration)** | Link |
 |-----------|-------------|--------------|------|
 | **Introduction** | Jing Pan | 8:00-8:05am (5m) | |
-| **Invited Talk:** Efficient Difference-in-Differences and Event Study Estimators | [Pedro Sant’Anna]((https://psantanna.com/)) | 8:05 - 8:25am (20m) | Paper, Slides |
+| **Invited Talk:** Efficient Difference-in-Differences and Event Study Estimators | [Pedro Sant’Anna](https://psantanna.com/) | 8:05 - 8:25am (20m) | Paper, Slides |
 | Offline Contextual Bandits in the Presence of New Actions | Yuta Saito* (Cornell University), Ren Kishimoto (Institute of Science Tokyo), Tatsuhiro Shimizu, Yusuke Narita (Yale University), Kazuki Kawamura, Takanori Muroi, Yuki Sasamoto, Kei Tateno, Takuma Udagawa (Sony Group Corporation) | 8:25 - 8:35am (10m) |  |
 | Dynamic Synthetic Controls vs. Panel-Aware Double Machine Learning for Geo-Level Marketing Impact Estimation | Sang Su Lee*, Vineeth Loganathan, Vijay Raghavan (Thumbtack, Inc.) | 8:35 - 8:45am (10m) |  |
 | **Invited Talk:** Sparse Causal Learning: Challenges and Opportunities | [Linbo Wang](https://sites.google.com/site/linbowangpku/home) | 8:50 - 9:10am (20m) | Paper, Slides |
