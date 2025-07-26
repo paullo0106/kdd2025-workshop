@@ -36,21 +36,21 @@ submission guidelines.
 | **Title** | **Speaker** | **Time (Duration)** | Link |
 |-----------|-------------|--------------|------|
 | **Introduction** | Jing Pan (Snap Inc.) | 8:00 - 8:05am (5m) | |
-| **[Invited Talk]** Applications of Causal Machine Learning in Building a Unified Metric System | [Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng/) (Roblox) | 8:05 - 8:25am (20m) | Paper, Slides |
-| Offline Contextual Bandits in the Presence of New Actions | Yuta Saito* (Cornell University), Ren Kishimoto (Institute of Science Tokyo), Tatsuhiro Shimizu, Yusuke Narita (Yale University), Kazuki Kawamura, Takanori Muroi, Yuki Sasamoto, Kei Tateno, Takuma Udagawa (Sony Group Corporation) | 8:25 - 8:35am (10m) |  |
-| Dynamic Synthetic Controls vs. Panel-Aware Double Machine Learning for Geo-Level Marketing Impact Estimation | Sang Su Lee*, Vineeth Loganathan, Vijay Raghavan (Thumbtack, Inc.) | 8:35 - 8:45am (10m) |  |
-| **[Invited Talk]** Sparse Causal Learning: Challenges and Opportunities | [Linbo Wang](https://sites.google.com/site/linbowangpku/home) (University of Toronto) | 8:50 - 9:10am (20m) | Paper, Slides |
-| CIPHER: Causal Intent Plug-in Framework for the Mitigation of Historical Exposure Bias in Recommender Systems | Sanghyeon Lee*, Yeonghwan Jeon, Hyuncheol Jo, Byoung-Ki Jeon (LG Uplus) | 9:10 - 9:20am (10m) |  |
-| Does Residuals-on-Residuals Regression Produce Representative Estimates of Causal Effects? | Winston Chou (Netflix)*, Apoorva Lal (Amazon) | 9:20 - 9:30am (10m) |  |
+| **[Invited Talk]** Applications of Causal Machine Learning in Building a Unified Metric System | [Wenjing Zheng](https://www.linkedin.com/in/wenjing-zheng/) (Roblox) | 8:05 - 8:25am (20m) | Slides |
+| Offline Contextual Bandits in the Presence of New Actions | Yuta Saito* (Cornell University), Ren Kishimoto (Institute of Science Tokyo), Tatsuhiro Shimizu, Yusuke Narita (Yale University), Kazuki Kawamura, Takanori Muroi, Yuki Sasamoto, Kei Tateno, Takuma Udagawa (Sony Group Corporation) | 8:25 - 8:35am (10m) | [Paper](papers/2.pdf) |
+| Dynamic Synthetic Controls vs. Panel-Aware Double Machine Learning for Geo-Level Marketing Impact Estimation | Sang Su Lee*, Vineeth Loganathan, Vijay Raghavan (Thumbtack, Inc.) | 8:35 - 8:45am (10m) |[Paper](papers/3.pdf)|
+| **[Invited Talk]** Sparse Causal Learning: Challenges and Opportunities | [Linbo Wang](https://sites.google.com/site/linbowangpku/home) (University of Toronto) | 8:50 - 9:10am (20m) | Slides |
+| CIPHER: Causal Intent Plug-in Framework for the Mitigation Plug-in Framework for then of Historical Exposure Bias in Recommender Systems | Sanghyeon Lee*, Yeonghwan Jeon, Hyuncheol Jo, Byoung-Ki Jeon (LG Uplus) | 9:10 - 9:20am (10m) | [Paper](papers/4.pdf) |
+| Does Residuals-on-Residuals Regression Produce Representative Estimates of Causal Effects? | Winston Chou (Netflix)*, Apoorva Lal (Amazon) | 9:20 - 9:30am (10m) | [Paper](papers/6.pdf) |
 | *Coffee Break & Poster Session* | | 9:30 - 10:00am | |
-| **[Invited Talk]** Efficient Difference-in-Differences and Event Study Estimators | [Pedro Sant’Anna](https://psantanna.com/) (Emory University) | 10:00 - 10:20am (20m) | Paper, Slides |
-| Causal Inference under Threshold Manipulation: A Bayesian Mixture Approach | Kohsuke Kubota (NTT DOCOMO, INC)*, Shonosuke Sugasawa (Keio University) | 10:20 - 10:30am (10m) |  |
-| I See, Therefore I Do: Estimating Causal Effects for Image Treatments | Ravi Kolla*, Abhinav Thorat, Niranjan Pedanekar (Sony Research India) | 10:30 - 10:40am (10m) |  |
-| An End-to-End Pipeline for Causal ML with Continuous Treatments: An Application to Financial Decision Making | Javier Moral Hernández*, Clara Higuera‑Cabañes, Álvaro Ibráin (BBVA, AI Factory) | 10:40 - 10:50am (10m) |  |
-| **[Invited Talk]** Engineering Patterns in Causal Inference | [Jeffrey Wong](https://www.linkedin.com/in/jeffctwong/) (Airbnb) | 10:55 - 11:15am (20m) | Paper, Slides |
-| A Debiased Machine Learning Framework for Optimizing Price Promotion within E-commerce | Bo Zhang*, Sergazy Nurbavliyev, Vaidyanath Areyur Shanthakumar, Stephen Merrill, Raymond J. Pan, Komson Chanprapan (Beyond Inc, Midvale, Utah, USA) | 11:25 - 11:35am (10m) |  |
-| Auditable Surge Planning: Network-Aware Causal Inference Meets Prescriptive Optimization | Sanjay Patnala*, Vedika Lakhanpal (Georgia Institute of Technology) | 11:35 - 11:45am (10m) | |
-| IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations | Yiheng An*, Jia Li, Jeffrey Camm (Wake Forest University), Liang Hu, Qinqin Zhuge, Bingxin Jia (Alibaba Group) | 11:45 - 11:55am (10m) | |
+| **[Invited Talk]** Efficient Difference-in-Differences and Event Study Estimators | [Pedro Sant’Anna](https://psantanna.com/) (Emory University) | 10:00 - 10:20am (20m) | Slides |
+| Causal Inference under Threshold Manipulation: A Bayesian Mixture Approach | Kohsuke Kubota (NTT DOCOMO, INC)*, Shonosuke Sugasawa (Keio University) | 10:20 - 10:30am (10m) | [Paper](papers/7.pdf) |
+| I See, Therefore I Do: Estimating Causal Effects for Image Treatments | Ravi Kolla*, Abhinav Thorat, Niranjan Pedanekar (Sony Research India) | 10:30 - 10:40am (10m) | [Paper](papers/11.pdf) |
+| An End-to-End Pipeline for Causal ML with Continuous Treatments: An Application to Financial Decision Making | Javier Moral Hernández*, Clara Higuera‑Cabañes, Álvaro Ibráin (BBVA, AI Factory) | 10:40 - 10:50am (10m) | [Paper](papers/12.pdf) |
+| **[Invited Talk]** Engineering Patterns in Causal Inference | [Jeffrey Wong](https://www.linkedin.com/in/jeffctwong/) (Airbnb) | 10:55 - 11:15am (20m) | Slides |
+| A Debiased Machine Learning Framework for Optimizing Price Promotion within E-commerce | Bo Zhang*, Sergazy Nurbavliyev, Vaidyanath Areyur Shanthakumar, Stephen Merrill, Raymond J. Pan, Komson Chanprapan (Beyond Inc, Midvale, Utah, USA) | 11:25 - 11:35am (10m) | [Paper](papers/24.pdf) |
+| Auditable Surge Planning: Network-Aware Causal Inference Meets Prescriptive Optimization | Sanjay Patnala*, Vedika Lakhanpal (Georgia Institute of Technology) | 11:35 - 11:45am (10m) | [Paper](papers/29.pdf) |
+| IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations | Yiheng An*, Jia Li, Jeffrey Camm (Wake Forest University), Liang Hu, Qinqin Zhuge, Bingxin Jia (Alibaba Group) | 11:45 - 11:55am (10m) | [Paper](papers/31.pdf) |
 | **Closing** | Zeyu Zheng (University of California Berkeley) | 11:55am-12:00pm (5m) | |
 
 ## [**Invited Speakers**](https://causal-machine-learning.github.io/kdd2025-workshop/invited/)
@@ -63,23 +63,23 @@ submission guidelines.
 ## **Accepted Papers**
 
 ### For Oral Presentation
-1. A Debiased Machine Learning Framework for Optimizing Price Promotion within E-commerce; Bo Zhang*, Sergazy Nurbavliyev, Vaidyanath Areyur Shanthakumar, Stephen Merrill, Raymond J. Pan, Komson Chanprapan (Beyond Inc, Midvale, Utah, USA)
-2. An End-to-End Pipeline for Causal ML with Continuous Treatments: An Application to Financial Decision Making; Javier Moral Hernández*, Clara Higuera‑Cabañes, Álvaro Ibráin (BBVA, AI Factory)
-3. Auditable Surge Planning: Network-Aware Causal Inference Meets Prescriptive Optimization; Sanjay Patnala*, Vedika Lakhanpal (Georgia Institute of Technology)
-4. Causal Inference under Threshold Manipulation: A Bayesian Mixture Approach; Kohsuke Kubota (NTT DOCOMO, INC)*, Shonosuke Sugasawa (Keio University)
-5. CIPHER: Causal Intent Plug-in Framework for the Mitigation of Historical Exposure Bias in Recommender Systems; Sanghyeon Lee*, Yeonghwan Jeon, Hyuncheol Jo, Byoung-Ki Jeon (LG Uplus)
-6. Does Residuals-on-Residuals Regression Produce Representative Estimates of Causal Effects?; Winston Chou (Netflix)*, Apoorva Lal (Amazon)
-7. Dynamic Synthetic Controls vs. Panel-Aware Double Machine Learning for Geo-Level Marketing Impact Estimation; Sang Su Lee*, Vineeth Loganathan, Vijay Raghavan (Thumbtack, Inc.)
-8. I See, Therefore I Do: Estimating Causal Effects for Image Treatments; Ravi Kolla*, Abhinav Thorat, Niranjan Pedanekar (Sony Research India)
-9. IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations; Yiheng An*, Jia Li, Jeffrey Camm (Wake Forest University), Liang Hu, Qinqin Zhuge, Bingxin Jia (Alibaba Group)
-10. Offline Contextual Bandits in the Presence of New Actions; Yuta Saito* (Cornell University), Ren Kishimoto (Institute of Science Tokyo), Tatsuhiro Shimizu, Yusuke Narita (Yale University), Kazuki Kawamura, Takanori Muroi, Yuki Sasamoto, Kei Tateno, Takuma Udagawa (Sony Group Corporation)
+1. A Debiased Machine Learning Framework for Optimizing Price Promotion within E-commerce; Bo Zhang*, Sergazy Nurbavliyev, Vaidyanath Areyur Shanthakumar, Stephen Merrill, Raymond J. Pan, Komson Chanprapan (Beyond Inc, Midvale, Utah, USA); [Paper](papers/24.pdf)
+2. An End-to-End Pipeline for Causal ML with Continuous Treatments: An Application to Financial Decision Making; Javier Moral Hernández*, Clara Higuera‑Cabañes, Álvaro Ibráin (BBVA, AI Factory); [Paper](papers/12.pdf)
+3. Auditable Surge Planning: Network-Aware Causal Inference Meets Prescriptive Optimization; Sanjay Patnala*, Vedika Lakhanpal (Georgia Institute of Technology); [Paper](papers/29.pdf)
+4. Causal Inference under Threshold Manipulation: A Bayesian Mixture Approach; Kohsuke Kubota (NTT DOCOMO, INC)*, Shonosuke Sugasawa (Keio University); [Paper](papers/7.pdf)
+5. CIPHER: Causal Intent Plug-in Framework for the Mitigation of Historical Exposure Bias in Recommender Systems; Sanghyeon Lee*, Yeonghwan Jeon, Hyuncheol Jo, Byoung-Ki Jeon (LG Uplus); [Paper](papers/4.pdf)
+6. Does Residuals-on-Residuals Regression Produce Representative Estimates of Causal Effects?; Winston Chou (Netflix)*, Apoorva Lal (Amazon); [Paper](papers/6.pdf)
+7. Dynamic Synthetic Controls vs. Panel-Aware Double Machine Learning for Geo-Level Marketing Impact Estimation; Sang Su Lee*, Vineeth Loganathan, Vijay Raghavan (Thumbtack, Inc.); [Paper](papers/3.pdf)
+8. I See, Therefore I Do: Estimating Causal Effects for Image Treatments; Ravi Kolla*, Abhinav Thorat, Niranjan Pedanekar (Sony Research India); [Paper](papers/11.pdf)
+9. IMPACT: An Inference-Driven Modeling Framework for Cost-Effective Incentive Allocation in Service Operations; Yiheng An*, Jia Li, Jeffrey Camm (Wake Forest University), Liang Hu, Qinqin Zhuge, Bingxin Jia (Alibaba Group); [Paper](papers/31.pdf)
+10. Offline Contextual Bandits in the Presence of New Actions; Yuta Saito* (Cornell University), Ren Kishimoto (Institute of Science Tokyo), Tatsuhiro Shimizu, Yusuke Narita (Yale University), Kazuki Kawamura, Takanori Muroi, Yuki Sasamoto, Kei Tateno, Takuma Udagawa (Sony Group Corporation); [Paper](papers/2.pdf)
 
 ### For Poster Presentation
-1. Causal Machine Learning for Promotions: Industry Evidence and Applications; Muxi Xu (DoorDash)*, Kun Hu (DoorDash), Sudeep Das (DoorDash), Bruce Wang (DoorDash)
-2. Estimation of Single and Synergistic Treatment Effects under Multiple Treatments with Deep Neural Networks; Yuki Murakami (NTT DOCOMO, INC.)*, Kohsuke Kubota (NTT DOCOMO, INC.), Takumi Hattori (NTT DOCOMO, INC.), Keiichi Ochiai (Yokohama City University; NTT DOCOMO, INC.)
-3. Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models; Haochen Song (University of Toronto)*, Dominik Hofer (Ludwig Boltzmann Institute for Digital Health and Prevention), Rania Islambouli (Ludwig Boltzmann Institute for Digital Health and Prevention), Laura Hawkins (University of Toronto), Ananya Bhattacharjee (University of Toronto), Meredith Franklin (University of Toronto), Joseph Williams (University of Toronto)
-4. Leveraging Large Language Models and Knowledge Graphs for Disease Theory Exploration and Causal Analysis; Isak Midtvedt (OsloMET), Shanshan Jiang (SINTEF)*, Dumitru Roman (SINTEF)
-5. Positive-Unlabeled Learning for Control Group Construction in Observational Causal Inference; Ilias Tsoumas (National Observatory of Athens)*, Dimitrios Bormpoudakis (National Observatory of Athens), Vasileios Sitokonstantinou (University of Valencia), Athanasios Askitopoulos (National Observatory of Athens), Andreas Kalogeras (National Observatory of Athens), Charalampos (Haris) Kontoes (National Observatory of Athens), Ioannis Athanasiadis (Wageningen University and Research)
+1. Causal Machine Learning for Promotions: Industry Evidence and Applications; Muxi Xu (DoorDash)*, Kun Hu (DoorDash), Sudeep Das (DoorDash), Bruce Wang (DoorDash); [Paper](papers/16.pdf)
+2. Estimation of Single and Synergistic Treatment Effects under Multiple Treatments with Deep Neural Networks; Yuki Murakami (NTT DOCOMO, INC.)*, Kohsuke Kubota (NTT DOCOMO, INC.), Takumi Hattori (NTT DOCOMO, INC.), Keiichi Ochiai (Yokohama City University; NTT DOCOMO, INC.); [Paper](papers/8.pdf)
+3. Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models; Haochen Song (University of Toronto)*, Dominik Hofer (Ludwig Boltzmann Institute for Digital Health and Prevention), Rania Islambouli (Ludwig Boltzmann Institute for Digital Health and Prevention), Laura Hawkins (University of Toronto), Ananya Bhattacharjee (University of Toronto), Meredith Franklin (University of Toronto), Joseph Williams (University of Toronto); [Paper](papers/15.pdf)
+4. Leveraging Large Language Models and Knowledge Graphs for Disease Theory Exploration and Causal Analysis; Isak Midtvedt (OsloMET), Shanshan Jiang (SINTEF)*, Dumitru Roman (SINTEF); [Paper](papers/25.pdf)
+5. Positive-Unlabeled Learning for Control Group Construction in Observational Causal Inference; Ilias Tsoumas (National Observatory of Athens)*, Dimitrios Bormpoudakis (National Observatory of Athens), Vasileios Sitokonstantinou (University of Valencia), Athanasios Askitopoulos (National Observatory of Athens), Andreas Kalogeras (National Observatory of Athens), Charalampos (Haris) Kontoes (National Observatory of Athens), Ioannis Athanasiadis (Wageningen University and Research); [Paper](papers/13.pdf)
 
 ## **Organizers**
 
